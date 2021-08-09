@@ -11,3 +11,5 @@ git state
 git commit --amend -m "Mensaje corregido: Se actualiza index.html y se agrega lib lab.js"
 ## Para deshacer el ultimo commit pero conservar los cambio staged
 git reset --soft HEAD^
+## Para ver y comparar cambios en archivos y entre ramas
+git diff [nombre del archivo|nombres de las ramas]
