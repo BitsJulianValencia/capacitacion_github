@@ -1,0 +1,10 @@
+git init
+git config [--global] user.name ""
+git config [--global] user.email ""
+git config [--global] --list
+git log --oneline --decorate --all --graph
+git config [--global] alias.logreduced "log --oneline --decorate --all --graph"
+git logreduced
+git config [--global] alias.state "status --short --branch"
+git state
+
