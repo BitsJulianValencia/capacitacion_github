@@ -7,4 +7,7 @@ git config [--global] alias.logreduced "log --oneline --decorate --all --graph"
 git logreduced
 git config [--global] alias.state "status --short --branch"
 git state
-
+## Para corregir el mensaje del último commit no pushed
+git commit --amend -m "Mensaje corregido: Se actualiza index.html y se agrega lib lab.js"
+## Para deshacer el ultimo commit pero conservar los cambio staged
+git reset --soft HEAD^
