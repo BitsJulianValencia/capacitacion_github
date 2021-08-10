@@ -10,4 +10,4 @@ Hymenaeos, curae occaecati consequat officia, officiis nobis aspernatur sint ad 
 #### Título h4
 ##### Título h5
 
-Ejemplo de letra cursiva o itálica con "*" ó "_" por ejemplo: _Vulputate quam elementum soluta, expedita, suspendisse cubilia hendrerit temporibus. Provident_
+Ejemplo de letra cursiva o itálica con "*" ó "_" por ejemplo: _Vulputate quam elementum soluta, expedita, suspendisse cubilia hendrerit temporibus. Provident_ Tambien se pueden escribir en negrilla con doble "*" **por ejemplo**
